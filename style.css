@@ -2,8 +2,13 @@
 	margin: 0;
 }
 
-.main {
-	font: Georgia 120px black;
+#tain {
+width:500px; 
+margin-left:auto;
+margin-right:auto;
+background-color: green;
+border-left:20px solid pink;
+border-right:20px solid pink;
 }
 
 img.one {
@@ -18,4 +23,43 @@ img.three {
   width:50%; 
   height: 50%;
 }
+
+.wikitable {
+
+    background-color: #f8f9fa;
+
+    color: #222;
+
+    width:100%;
+
+    margin: 1em 0;
+
+    border: 1px solid #a2a9b1;
+
+    border-collapse: collapse;
+
+}
+
+
+
+.wikitable th {
+
+    background-color: #eaecf0;
+
+    text-align: center;
+
+    border: 1px solid #a2a9b1;
+
+    padding: 0.3em;	
+
+}
+
+.wikitable td {
+
+    padding: 0.5em;	
+
+    text-align: center;
+}
+
+
 
