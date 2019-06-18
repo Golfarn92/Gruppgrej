@@ -1,0 +1,22 @@
+#main {
+width:450px; 
+margin-left:auto;
+margin-right:auto;
+background-color: white;
+border-left:20px solid pink;
+border-right:20px solid pink;
+
+}
+
+#Library {
+   background-image: url('Char1.jpg');   
+   height: 250px;
+   width: 250px;
+}
+
+#Library:hover {
+   background-image: url('Char2.jpg');
+	width: 250px;
+   height: 250px;
+
+}

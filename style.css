@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 	/*		.button {
   			background-color: #4CAF50;
   			border: none;
@@ -48,3 +49,26 @@
 .horizontal-btn-group button:hover {
   background-color: #3e8e41;
 }
+=======
+* {
+	margin: 0;
+}
+
+.main {
+	font: Georgia 120px black;
+}
+
+img.one {
+  width:50%; 
+  height: 50%;
+}
+img.two {
+  width:50%; 
+  height: 50%;
+}
+img.three {
+  width:50%; 
+  height: 50%;
+}
+
+>>>>>>> fbf6fae996c36afcf5646e05f91048fe4b5ebe04
