@@ -2,8 +2,20 @@
 	margin: 0;
 }
 
-.main {
-	font: Georgia 120px black;
+.main-structure {
+	background-color: white;
+	text-align: center;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.introduction {
+	border-top: solid silver 2px;
+	border-bottom: solid silver 2px;
+}
+img {
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
 img.one {
@@ -19,3 +31,14 @@ img.three {
   height: 50%;
 }
 
+p {
+	font: 15px verdana;
+}
+
+.footer {
+	border: solid silver 3px;
+	padding: 15px;
+	height: 100px;
+	width: 100%;
+	background-color: whitesmoke;
+}
