@@ -4,7 +4,6 @@
 .header {
 	width: 100%;
 	height: 150px;
-	background-color: tomato;
 }
 
 .header-img {
@@ -12,19 +11,19 @@
 }
 
 .nav {
-	background-color: silver; 
+	background-color: white; 
 }
 
 .main-structure {
-	background-color: teal;
+	background-color: white;
 	text-align: center;
 	margin-left: 15%;
 	margin-right: 15%;
 }
 
 .introduction {
-	border-top: solid silver 2px;
-	border-bottom: solid silver 2px;
+	border-top: solid black 1px;
+	border-bottom: solid black 1px;
 }
 img {
 	margin-top: 10px;
@@ -48,13 +47,6 @@ p {
 	font: 15px verdana;
 }
 
-.footer {
-	border: solid silver 3px;
-	padding: 15px;
-	height: 100px;
-	width: 100%;
-	background-color: whitesmoke;
-}
 
 .vertical-btn-group button {
   background-color: #4CAF50; /* Green background */
@@ -107,9 +99,6 @@ p {
 	margin: 0;
 }
 
-.main {
-	font: Georgia 120px black;
-}
 
 img.one {
   width:50%; 
@@ -125,7 +114,7 @@ img.three {
 }
 
 body {
-  background-color: orange;
+  background-color: white;
   margin: 50px auto;
   box-sizing: border-box;
 }
@@ -143,7 +132,7 @@ body {
   overflow: hidden;
   /* Sets the width and height for the images*/
   width: 400px;
-  height: 200px;
+  height: 150px;
 }
 
 /* 
