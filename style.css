@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+}
+
+.main {
+	font: Georgia 120px black;
+}
+
+img.one {
+  width:50%; 
+  height: 50%;
+}
+img.two {
+  width:50%; 
+  height: 50%;
+}
+img.three {
+  width:50%; 
+  height: 50%;
+}
+
