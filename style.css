@@ -1,0 +1,50 @@
+	/*		.button {
+  			background-color: #4CAF50;
+  			border: none;
+  			color: white;
+  			padding: 15px 32px;
+  			text-align: center;
+  			text-decoration: none;
+  			display: inline-block;
+  			font-size: 16px;
+  			margin: 4px 2px;
+  			cursor: pointer;
+}*/
+
+.vertical-btn-group button {
+  background-color: #4CAF50; /* Green background */
+  border: 1px solid green; /* Green border */
+  color: white; /* White text */
+  padding: 10px 24px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 100px; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.vertical-btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.vertical-btn-group button:hover {
+  background-color: #3e8e41;
+}
+
+.horizontal-btn-group button {
+  background-color: #4CAF50; /* Green background */
+  border: 1px solid green; /* Green border */
+  color: white; /* White text */
+  padding: 10px 24px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  /*width: 100px; /* Set a width if needed */
+  /*display: block; /* Make the buttons appear below each other */
+}
+
+.horizontal-btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.horizontal-btn-group button:hover {
+  background-color: #3e8e41;
+}
