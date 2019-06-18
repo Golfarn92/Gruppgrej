@@ -19,12 +19,19 @@
 		</nav>
 		<main>
 			<div class="main">
-				<h1>Welcome to Potib, the best game in the world</h1>
+				<h1>Welcome to Potib, the best free game in the world</h1>
 			</div>
+
+	<p> Introduction: </p>		
 <p>
 In Potib its possible to fight different pokemons, exploring and fight the best trainers in the word!
 				</p>
-			
+
+<p>The game is under construction and is only text-based for the moment. Later on a big map with different cities will be included. </p>
+
+
+
+
 		</main>
 		<footer></footer>
 	</body>
