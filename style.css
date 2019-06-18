@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 	/*		.button {
   			background-color: #4CAF50;
   			border: none;
@@ -48,3 +49,49 @@
 .horizontal-btn-group button:hover {
   background-color: #3e8e41;
 }
+=======
+* {
+	margin: 0;
+}
+
+.main-structure {
+	background-color: white;
+	text-align: center;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.introduction {
+	border-top: solid silver 2px;
+	border-bottom: solid silver 2px;
+}
+img {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+img.one {
+  width:50%; 
+  height: 50%;
+}
+img.two {
+  width:50%; 
+  height: 50%;
+}
+img.three {
+  width:50%; 
+  height: 50%;
+}
+
+p {
+	font: 15px verdana;
+}
+
+.footer {
+	border: solid silver 3px;
+	padding: 15px;
+	height: 100px;
+	width: 100%;
+	background-color: whitesmoke;
+}
+>>>>>>> origin/master
