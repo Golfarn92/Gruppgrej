@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+	<html>
+<<<<<<< HEAD
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<title>Best group 5ever</title>
+	</head>
+	<body>
+		<header></header>
+        <nav>	
+        	<div class="horizontal-btn-group">
+        		<button>otherstuff?</button>
+        		<button>forum?</button>
+        		<button>About</button>
+        	</div>
+
+
+			<div class="vertical-btn-group">
+				<button>Potib</button>
+				<button>Fun stuff</button>
+				<button>About</button>
+			</div>
+        	<p> babasbil</p>
+        </nav>
+        <aside>
+        	<p>	babasbil2</p>
+        </aside>
+        <main>
+        	<p> main </p>
+        </main>
+        <footer></footer>
+=======
+
+	<head>
+
+	<style>
+			
+			.button {
+  			background-color: #4CAF50;
+  			border: none;
+  			color: white;
+  			padding: 15px 32px;
+  			text-align: center;
+  			text-decoration: none;
+  			display: inline-block;
+  			font-size: 16px;
+  			margin: 4px 2px;
+  			cursor: pointer;
+}
+
+		</style>
+		
+		<title>Best group 5ever</title>
+
+		<link href="Styl.css" rel="stylesheet" type="text/css">
+	</head>
+
+
+
+	<body>
+		<a href="#" class="button">Pobits</a>
+		<button class="button">Items</button>
+		<input type="button" class="button" value="About">
+<div id="main">
+		<font size="120px" face="Georgia" color="black">
+				<h1>Giant Coders</h1>
+			</font>	
+		</div>
+>>>>>>> fbf6fae996c36afcf5646e05f91048fe4b5ebe04
+	</body>
+	</html>

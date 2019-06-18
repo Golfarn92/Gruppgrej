@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 	/*		.button {
   			background-color: #4CAF50;
   			border: none;
@@ -11,14 +12,19 @@
   			margin: 4px 2px;
   			cursor: pointer;
 }*/
+=======
+>>>>>>> 04f0ae3a375c6dd1a68366b08b1ca72c406b9582
 
 .vertical-btn-group button {
   background-color: #4CAF50; /* Green background */
   border: 1px solid green; /* Green border */
   color: white; /* White text */
   padding: 10px 24px; /* Some padding */
+  margin-left: 300px;
+  margin-top: auto;
+  margin-bottom: auto;
   cursor: pointer; /* Pointer/hand icon */
-  width: 100px; /* Set a width if needed */
+  /*width: 100px; /* Set a width if needed */
   display: block; /* Make the buttons appear below each other */
 }
 
@@ -36,6 +42,8 @@
   border: 1px solid green; /* Green border */
   color: blue; /* White text */
   padding: 10px 24px; /* Some padding */
+  margin-left: 450px;
+
   cursor: pointer; /* Pointer/hand icon */
   /*width: 100px; /* Set a width if needed */
   /*display: block; /* Make the buttons appear below each other */
@@ -54,6 +62,7 @@
 	margin: 0;
 }
 
+<<<<<<< HEAD
 .main-structure {
 	background-color: blue;
 	text-align: center;
@@ -68,6 +77,10 @@
 img {
 	margin-top: 10px;
 	margin-bottom: 10px;
+=======
+.main {
+	font: Georgia 120px black;
+>>>>>>> 04f0ae3a375c6dd1a68366b08b1ca72c406b9582
 }
 
 img.one {
@@ -83,6 +96,7 @@ img.three {
   height: 50%;
 }
 
+<<<<<<< HEAD
 p {
 	font: 15px verdana;
 }
@@ -95,3 +109,6 @@ p {
 	background-color: blue;
 }
 >>>>>>> origin/master
+=======
+>>>>>>> fbf6fae996c36afcf5646e05f91048fe4b5ebe04
+>>>>>>> 04f0ae3a375c6dd1a68366b08b1ca72c406b9582
