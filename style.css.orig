@@ -1,22 +1,10 @@
+<<<<<<< HEAD
 * {
 	margin: 0;
 }
-.header {
-	width: 100%;
-	height: 150px;
-	background-color: tomato;
-}
-
-.header-img {
-	background-image: 
-}
-
-.nav {
-	background-color: silver; 
-}
 
 .main-structure {
-	background-color: teal;
+	background-color: white;
 	text-align: center;
 	margin-left: 15%;
 	margin-right: 15%;
@@ -29,46 +17,18 @@
 img {
 	margin-top: 10px;
 	margin-bottom: 10px;
-}
-
-img.one {
-  width:50%; 
-  height: 50%;
-}
-img.two {
-  width:50%; 
-  height: 50%;
-}
-img.three {
-  width:50%; 
-  height: 50%;
-}
-
-p {
-	font: 15px verdana;
-}
-
-.footer {
-	border: solid silver 3px;
-	padding: 15px;
-	height: 100px;
-	width: 100%;
-	background-color: whitesmoke;
-}
+=======
 
 .vertical-btn-group button {
   background-color: #4CAF50; /* Green background */
   border: 1px solid green; /* Green border */
   color: white; /* White text */
   padding: 10px 24px; /* Some padding */
-  /*margin-left: 20px;
+  margin-left: 300px;
   margin-top: auto;
   margin-bottom: auto;
   cursor: pointer; /* Pointer/hand icon */
   /*width: 100px; /* Set a width if needed */
-  position: relative;
-  left: 10px;
-  top: 200px;
   display: block; /* Make the buttons appear below each other */
 }
 
@@ -86,12 +46,11 @@ p {
   border: 1px solid green; /* Green border */
   color: white; /* White text */
   padding: 10px 24px; /* Some padding */
+  margin-left: 450px;
+
   cursor: pointer; /* Pointer/hand icon */
   /*width: 100px; /* Set a width if needed */
   /*display: block; /* Make the buttons appear below each other */
-  position: relative;
-  left: 10px;
-  top: 200px;
 }
 
 .horizontal-btn-group button:not(:last-child) {
@@ -102,3 +61,41 @@ p {
 .horizontal-btn-group button:hover {
   background-color: #3e8e41;
 }
+=======
+* {
+	margin: 0;
+}
+
+.main {
+	font: Georgia 120px black;
+>>>>>>> 04f0ae3a375c6dd1a68366b08b1ca72c406b9582
+}
+
+img.one {
+  width:50%; 
+  height: 50%;
+}
+img.two {
+  width:50%; 
+  height: 50%;
+}
+img.three {
+  width:50%; 
+  height: 50%;
+}
+
+<<<<<<< HEAD
+p {
+	font: 15px verdana;
+}
+
+.footer {
+	border: solid silver 3px;
+	padding: 15px;
+	height: 100px;
+	width: 100%;
+	background-color: whitesmoke;
+}
+=======
+>>>>>>> fbf6fae996c36afcf5646e05f91048fe4b5ebe04
+>>>>>>> 04f0ae3a375c6dd1a68366b08b1ca72c406b9582
