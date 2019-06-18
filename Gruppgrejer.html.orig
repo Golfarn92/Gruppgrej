@@ -1,27 +1,19 @@
 <!DOCTYPE html>
 	<html>
-
 	<head>
+<<<<<<< HEAD
+=======
+		<figure class="swap-on-hover">
+ 			<img  class="swap-on-hover__front-image" src="Char1.jpg"/>
+  			<img class="swap-on-hover__back-image" src="Char2.jpg"/>
+		</figure>
 		
+>>>>>>> 38b9d334470f2ee2130f6e841258043d8bfb9272
 		<title>Potib</title>
-
-<<<<<<< HEAD
 		<link href="style.css" rel="stylesheet" type="text/css">
-=======
-		<link rel="stylesheet" type="text/css" href="style.css">
->>>>>>> 04f0ae3a375c6dd1a68366b08b1ca72c406b9582
 	</head>
-
-
-
 	<body>
-<<<<<<< HEAD
-		<div class="main-structure">
-		<header></header>
-		<nav>
-=======
-		<header></header>
-		<nav>
+		<nav class="nav">
 			<div class="horizontal-btn-group">
         		<button>otherstuff?</button>
         		<button>forum?</button>
@@ -33,12 +25,11 @@
 				<button>Fun stuff</button>
 				<button>About</button>
 			</div>
-        	</div>
->>>>>>> 04f0ae3a375c6dd1a68366b08b1ca72c406b9582
-			<ul>
+        	<ul>
 				<li><a class="länkar" href="www.google.se"></a></li>
 			</ul>
 		</nav>
+		<div class="main-structure">
 		<main>
 			<div class="main">
 				<h1>Welcome to Potib, the best free game in the world</h1>
@@ -46,13 +37,8 @@
 
 			<img class="three" src="Potib.jpg">
 
-<<<<<<< HEAD
 <div class="introduction">
 	<h3> Introduction: </h3>		
-=======
-
-	<p> Introduction: </p>		
->>>>>>> 04f0ae3a375c6dd1a68366b08b1ca72c406b9582
 <p>
 In Potib its possible to fight different pokemons, exploring and fight the best trainers in the word!
 				  </p>
@@ -68,10 +54,7 @@ In Potib its possible to fight different pokemons, exploring and fight the best 
 	<p>Paladin is a long ranged archer that can kill the Pokemons from distance. The first attack is spear and later he will learn exori san</p>
 
 	<p> Sorcerer is a mage that will use magic to kill the Pokemons. The first attack is wand and later he will learn more mage with great power. </p>
-<<<<<<< HEAD
 	</div>
-=======
->>>>>>> 04f0ae3a375c6dd1a68366b08b1ca72c406b9582
 
 
 
@@ -81,13 +64,7 @@ In Potib its possible to fight different pokemons, exploring and fight the best 
 	
 		</main>
 
-<<<<<<< HEAD
 		</div>
-=======
-
-
-		<footer></footer>
->>>>>>> 04f0ae3a375c6dd1a68366b08b1ca72c406b9582
 	</body>
 	</html>
 

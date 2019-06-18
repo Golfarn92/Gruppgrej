@@ -1,10 +1,22 @@
-<<<<<<< HEAD
 * {
 	margin: 0;
 }
+.header {
+	width: 100%;
+	height: 150px;
+	background-color: tomato;
+}
+
+.header-img {
+	background-image: 
+}
+
+.nav {
+	background-color: silver; 
+}
 
 .main-structure {
-	background-color: white;
+	background-color: teal;
 	text-align: center;
 	margin-left: 15%;
 	margin-right: 15%;
@@ -17,18 +29,46 @@
 img {
 	margin-top: 10px;
 	margin-bottom: 10px;
-=======
+}
+
+img.one {
+  width:50%; 
+  height: 50%;
+}
+img.two {
+  width:50%; 
+  height: 50%;
+}
+img.three {
+  width:50%; 
+  height: 50%;
+}
+
+p {
+	font: 15px verdana;
+}
+
+.footer {
+	border: solid silver 3px;
+	padding: 15px;
+	height: 100px;
+	width: 100%;
+	background-color: whitesmoke;
+}
 
 .vertical-btn-group button {
   background-color: #4CAF50; /* Green background */
   border: 1px solid green; /* Green border */
   color: white; /* White text */
   padding: 10px 24px; /* Some padding */
-  margin-left: 300px;
+  /*margin-left: 20px;
   margin-top: auto;
   margin-bottom: auto;
   cursor: pointer; /* Pointer/hand icon */
   /*width: 100px; /* Set a width if needed */
+  position: relative;
+  left: 10px;
+  top: 200px;
   display: block; /* Make the buttons appear below each other */
 }
 
@@ -46,11 +86,12 @@ img {
   border: 1px solid green; /* Green border */
   color: white; /* White text */
   padding: 10px 24px; /* Some padding */
-  margin-left: 450px;
-
   cursor: pointer; /* Pointer/hand icon */
   /*width: 100px; /* Set a width if needed */
   /*display: block; /* Make the buttons appear below each other */
+  position: relative;
+  left: 10px;
+  top: 200px;
 }
 
 .horizontal-btn-group button:not(:last-child) {
@@ -61,6 +102,8 @@ img {
 .horizontal-btn-group button:hover {
   background-color: #3e8e41;
 }
+<<<<<<< HEAD
+=======
 =======
 * {
 	margin: 0;
@@ -68,7 +111,6 @@ img {
 
 .main {
 	font: Georgia 120px black;
->>>>>>> 04f0ae3a375c6dd1a68366b08b1ca72c406b9582
 }
 
 img.one {
@@ -84,18 +126,41 @@ img.three {
   height: 50%;
 }
 
-<<<<<<< HEAD
-p {
-	font: 15px verdana;
+body {
+  background-color: orange;
+  margin: 50px auto;
+  box-sizing: border-box;
 }
 
-.footer {
-	border: solid silver 3px;
-	padding: 15px;
-	height: 100px;
-	width: 100%;
-	background-color: whitesmoke;
+/* Make the container relative */
+.swap-on-hover {
+  position: relative; 
+  margin:  0 auto;
+  max-width: 400px;
 }
-=======
->>>>>>> fbf6fae996c36afcf5646e05f91048fe4b5ebe04
->>>>>>> 04f0ae3a375c6dd1a68366b08b1ca72c406b9582
+.swap-on-hover img {
+  position: absolute;
+  top:0;
+  left:0;
+  overflow: hidden;
+  /* Sets the width and height for the images*/
+  width: 400px;
+  height: 200px;
+}
+
+/* 
+  We set z-index to be higher than the back image, so it's alwyas on the front.
+
+We give it an opacity leaner to .25s, that way when we hover we will get a nice fading effect. 
+*/
+.swap-on-hover .swap-on-hover__front-image {
+  z-index: 9999;
+  transition: opacity .5s linear;
+  cursor: pointer;
+}
+
+/* When we hover the figure element, the block with .swap-on-hover, we want to use > so the front-image is going to have opacity of 0, which means it will be hidden, to the back image will show */
+.swap-on-hover:hover > .swap-on-hover__front-image{
+  opacity: 0;
+}
+>>>>>>> 38b9d334470f2ee2130f6e841258043d8bfb9272
