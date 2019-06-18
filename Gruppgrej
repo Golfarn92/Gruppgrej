@@ -11,10 +11,13 @@
 
 
 	<body>
-<div id="main">
-		<font size="120px" face="Georgia" color="black">
+		<header></header>
+		<nav></nav>
+		<main>
+			<div class="main">
 				<h1>Welcome to Potib, the best game in the world</h1>
-			</font>	
-		</div>
+			</div>
+		</main>
+		<footer></footer>
 	</body>
 	</html>
