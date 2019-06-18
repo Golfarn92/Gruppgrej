@@ -12,7 +12,11 @@
 
 	<body>
 		<header></header>
-		<nav></nav>
+		<nav>
+			<ul>
+				<li><a class="länkar" href="www.google.se"></a></li>
+			</ul>
+		</nav>
 		<main>
 			<div class="main">
 				<h1>Welcome to Potib, the best game in the world</h1>
