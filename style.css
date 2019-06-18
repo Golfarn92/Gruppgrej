@@ -6,14 +6,12 @@
 	font: Georgia 120px black;
 }
 
-#Library {
-   background-image: url('Char1.jpg');   
-   height: 250px;
-   width: 250px;
+img.one {
+  width:50%; 
+  height: 50%;
+}
+img.two {
+  width:50%; 
+  height: 50%;
 }
 
-#Library:hover {
-   background-image: url('Char2.jpg');
-	width: 250px;
-   height: 250px;
-}
